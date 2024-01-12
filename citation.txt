@@ -1,0 +1,7 @@
+@inproceedings{REPO037,
+    author = "Zhang, Jie and Kwon, Miryeong and Swift, Michael and Jung, Myoungsoo",
+    booktitle = "18th USENIX Conference on File and Storage Technologies (FAST 20)",
+    pages = "121--136",
+    title = "{Scalable Parallel Flash Firmware for Many-core Architectures}",
+    year = "2020"
+}
