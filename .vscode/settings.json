@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "nvme.h": "c",
+        "errno.h": "c",
+        "typeinfo": "c",
+        "utils.h": "c",
+        "request_types.h": "c",
+        "stdint.h": "c",
+        "stdlib.h": "c",
+        "ff.h": "c",
+        "iov_iter.h": "c",
+        "cache.h": "c"
+    }
+}

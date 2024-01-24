@@ -1,0 +1,9 @@
+13:47:17 DEBUG : Logs will be stored at 'E:/Multi-core-FTL/IDE.log'.
+13:47:22 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\Multi-core-FTL\temp_xsdb_launch_script.tcl
+13:47:23 INFO  : Registering command handlers for Vitis TCF services
+13:47:23 INFO  : Platform repository initialization has completed.
+13:47:32 INFO  : XSCT server has started successfully.
+13:47:32 INFO  : Successfully done setting XSCT server connection channel  
+13:47:33 INFO  : plnx-install-location is set to ''
+13:47:33 INFO  : Successfully done setting workspace for the tool. 
+13:47:33 INFO  : Successfully done query RDI_DATADIR 
